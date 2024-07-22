@@ -1,9 +1,17 @@
 # Neversitup_test
-Test Neversitup 
+## Project Structure
+• MVVM
 
-Use MVVM Architecture 
+## Design Pattern
+• Provider Pattern
 
-![alt text](Screenshot_1721470338.png)
-![alt text](Screenshot_1721470359.png)
-![alt text](Screenshot_1721470362.png)
-![alt text](Screenshot_1721470367.png)
+## Code Quality
+• Normal
+
+## UX/UI
+• Responsive
+
+## Performance
+• Standrad
+
+## Screen
